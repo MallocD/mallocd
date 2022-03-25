@@ -25,11 +25,12 @@
   <img align="center" alt="Malloc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Malloc-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Malloc-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg">
-  <img align="center" alt="Malloc-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
-  <img align="center" alt="Malloc-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg">
-  <img align="center" alt="Malloc-Csharp" height="30" width="40"  src="ttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Malloc-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="right" alt="Malloc-pic" height="150" style="border-radius:100px;" src="https://media.discordapp.net/attachments/915817930091016233/938826072085123172/a_0fb1122d0ffb76778c38d247e4dd8335.gif?width=319&height=319">
+  <img align="center" alt="Malloc-Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
+  <img align="center" alt="Malloc-DiscordJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg">
+  <img align="center" alt="Malloc-Linux" height="30" width="40"  src="ttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Malloc-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="right" alt="Malloc-pic" height="150" style="border-radius:100px;"
+       src="https://media.discordapp.net/attachments/915817930091016233/938826072085123172/a_0fb1122d0ffb76778c38d247e4dd8335.gif?width=319&height=319">
 </div>
   
   ##
