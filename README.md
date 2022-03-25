@@ -1,4 +1,4 @@
-### Hello I'm João Victor Santana 🧧
+### Hello I'm João Victor Sant'ana🧧
 
 
 
@@ -8,6 +8,7 @@
 - 🎱 Today I study front-and and back-and
 - 📫 Contact me by e-mail: joao337.jvs@gmail.com
 - 🎻 Hobbie: Music in spare time
+- 👨‍💻Systems Developer Analyst at NBS-Sistemas
 <div align="center">
   <a href="https://github.com/MallocD">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MallocD&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
