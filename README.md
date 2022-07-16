@@ -5,7 +5,7 @@
 
 <!-- - 🔭 I’m currently working on  -->
 - 💻 Software Engineering Student
-- 🎱 Today I study front-and and back-and
+- 🎱 Currently studying Full-Stack Development and Full-Stack Design
 - 📫 Contact me by e-mail: joao337.jvs@gmail.com
 - 🎻 Hobbie: Music in spare time
 - 👨‍💻 Systems Developer Analyst at NBS-Sistemas
