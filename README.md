@@ -6,7 +6,6 @@
 <!-- - 🔭 I’m currently working on  -->
 - 💻 Software Engineering Student
 - 🎱 Currently studying Full-Stack Development and Full-Stack Design
-- 📫 Contact me by e-mail: joao337.jvs@gmail.com
 - 🎻 Hobbie: Music in spare time
 - 👨‍💻 Systems Developer Analyst at NBS-Sistemas
 <div align="center">
