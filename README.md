@@ -1,13 +1,5 @@
 ### System.out.println("Hello")🧧
 
-
-
-
-<!-- - 🔭 I’m currently working on  -->
-- 💻 Software Engineering Student
-- 🎱 Currently studying Full-Stack Development and Full-Stack Design
-- 🎻 Hobbie: Music in spare time
-- 👨‍💻 Systems Developer Analyst at NBS-Sistemas
 <div align="center">
   <a href="https://github.com/MallocD">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MallocD&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
